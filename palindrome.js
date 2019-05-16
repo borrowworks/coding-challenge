@@ -1,5 +1,5 @@
 /**
- * Determine wither the submitted string is a palindrome.
+ * Determine whether the submitted string is a palindrome.
  *
  * Examples:
  * racecar (pass)
